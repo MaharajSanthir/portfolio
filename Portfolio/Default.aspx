@@ -210,7 +210,6 @@
     <p class="auto-style42">
         <strong><span class="auto-style41">Maharaj Santhir</span><br class="auto-style40" />
         </strong><span class="auto-style40">Email: msanthir@gmail.com</span><br class="auto-style40" />
-        <span class="auto-style40">Voicemail: 613-263-8550
     </span>
     </p>
     <p class="auto-style43">
